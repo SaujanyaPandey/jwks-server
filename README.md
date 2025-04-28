@@ -58,12 +58,6 @@ Ensure that the totally_not_my_privateKeys.db is created.
 Check for missing dependencies and install them.
 Review server logs for error messages.
 
-Deliverables
-
-GitHub Repo: Provide a link to the repository.
-Gradebot Output Screenshot: Include a screenshot of the Gradebot test client output.
-Test Suite Output Screenshot: Include test coverage results.
-
 License
 This project is licensed under the MIT License. See LICENSE for details.
 
